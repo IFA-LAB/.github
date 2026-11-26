@@ -5,8 +5,8 @@
 **Intelligent Finance Analytics Lab**, Department of Information Management, National Central University (Taiwan).
 國立中央大學 管理學院 資訊管理學系，2023 年 8 月成立，指導教授 [邱信瑜](https://ifa-lab.jushenhuang-jason.workers.dev/zh-tw/advisor/)。
 
-我們把財務理論、資料與 AI 接在一起：用台灣與國際市場的資料檢驗理論，建立讓預測更準的模型，再做成產業、政府和學界用得上的工具。
-We connect financial theory, data and AI: testing theory on Taiwan and global market data, building models that forecast better, and turning them into tools people can use.
+我們把財務理論、資料與 AI 接在一起，也做生成式 AI 與其他資訊題目：用台灣與國際市場的資料檢驗理論，建立讓預測更準的模型，再做成產業、政府和學界用得上的工具。
+We connect financial theory, data and AI, and also work on generative AI and other IT topics: testing theory on Taiwan and global market data, building models that forecast better, and turning them into tools people can use.
 
 🌐 **網站 Website：** [ifa-lab.jushenhuang-jason.workers.dev](https://ifa-lab.jushenhuang-jason.workers.dev/)
 
@@ -31,7 +31,10 @@ We connect financial theory, data and AI: testing theory on Taiwan and global ma
 
 ## 想加入？ Joining
 
-對金融科技、AI 或量化研究有興趣的同學，先看 [加入我們](https://ifa-lab.jushenhuang-jason.workers.dev/zh-tw/join/)，再寄信給邱老師：<hychiu@ncu.edu.tw>。
-Curious about fintech, AI or quantitative research? Read [How to join](https://ifa-lab.jushenhuang-jason.workers.dev/en/join/), then email Prof. Chiu at <hychiu@ncu.edu.tw>.
+題目不限金融：老師是金融背景，但 AI、生成式 AI 或其他資訊領域的題目都可以做。實驗室壓力不大，可以去實習，畢業也沒有硬性門檻。
+Topics are not limited to finance: AI, generative AI and other IT topics are all welcome. The pace is relaxed, internships are fine, and there is no fixed graduation quota.
+
+先看 [加入我們](https://ifa-lab.jushenhuang-jason.workers.dev/zh-tw/join/)，再寄信給邱老師：<hychiu@ncu.edu.tw>。
+Read [How to join](https://ifa-lab.jushenhuang-jason.workers.dev/en/join/), then email Prof. Chiu at <hychiu@ncu.edu.tw>.
 
 📍 中央大學 志希館 712 室｜Room 712, Zhixi Building, NCU, Taoyuan, Taiwan
